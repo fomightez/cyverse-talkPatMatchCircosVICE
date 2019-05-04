@@ -21,12 +21,13 @@ Circos-Binder and VICE app
 
 ### Alternatives
 
-Other tools for similar circular (and non-circular) visualization
+Other tools for similar circular (and non-circular) visualization. This is not meant to be an exhaustive listing.
 
 #### Command-line/ Script based
 
 - [Chord diagrams](https://www.data-to-viz.com/graph/chord.html#)
 - [CIRCULAR PLOT – CIRCLIZE PACKAGE (2)](https://www.r-graph-gallery.com/123-circular-plot-circlize-package-2/)
+- [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/#Examples) - for linear
 - [EasyFig](https://github.com/mjsull/Easyfig/wiki/Example-1.-Simple-genome-region-comparison) - for linear and sub-regions
 - [Donut plot with subgroups](https://python-graph-gallery.com/163-donut-plot-with-subgroups/) to contrast [Circos with highlights (specifically bottom plot here)](http://circos.ca/documentation/tutorials/highlights/recipe2/images) .
 
