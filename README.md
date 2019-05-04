@@ -62,3 +62,8 @@ Jupyter
 What I covered here today only touched on Python because that is the language I presently work most often in, but Jupyter can host R kernel and the hub can even serve RStudio.
 
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
+
+Acknowledgements
+----------------
+
+[Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
