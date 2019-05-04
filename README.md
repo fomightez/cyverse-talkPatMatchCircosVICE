@@ -4,6 +4,11 @@ Short link to share to this page is [bit.ly/CyverseWayne](http://bit.ly/CyverseW
 
 Resource listing for accompanying Wayne's Cyverse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
 
+VICE apps in Cyverse's Discovery Environment
+--------------------------------------------
+
+[List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
+
 PatMatch-Binder and VICE app
 ----------------------------
 
@@ -55,6 +60,11 @@ Pertinent recent Cyverse Friday Focus Forum Webinars
 Making VICE Apps
 ---------------
 
+- [Guidelines for adding VICE tools in DE](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/adding.html)
+
+- [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
+
+
 Jupyter
 -------
 
@@ -66,4 +76,4 @@ What I covered here today only touched on Python because that is the language I 
 Acknowledgements
 ----------------
 
-[Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
+- [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
