@@ -14,13 +14,9 @@ VICE apps in Cyverse's Discovery Environment
 --------------------------------------------
 
 - [Visual Interactive Computing Environment(VICE)](https://learning.cyverse.org/projects/vice/en/latest/index.html)
-
 - [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
-
 - [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
-
 - [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
-
 - see [Making VICE Apps](#making-vice-apps) below
 
 PatMatch-Binder and VICE app
@@ -68,7 +64,6 @@ Making VICE Apps
 ---------------
 
 - [Guidelines for adding VICE tools in DE](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/adding.html)
-
 - [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
 
 
@@ -86,13 +81,9 @@ Jupyter and Binder
 What I covered here today only touched on Python and the bash shell languages because the fromer is the language I presently work in most often. However, Jupyter can host an R kernel and the hub can even serve RStudio. Other langauges are possible too.
 
 - [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
-
 - [MyBinder.org](https://mybinder.org/)
-
 - [Sample Binder Repositories as Guides](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
-
 - Scientific Examples in the wild:
-
   - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics)
   - [Python for ecologists, a Data Carpentry lesson](https://github.com/ngs-docs/2017-davis-ggg201a-day1)
   - [Introductory image processing on biological images using python](https://github.com/dwaithe/model-training)
@@ -100,20 +91,15 @@ What I covered here today only touched on Python and the bash shell languages be
   - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
   - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
   - [LIGO data analysis](http://github.com/gwastro/pycbc) - package was used in the first direct detection of gravitational waves
-
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
-
 - [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
-
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
 
 Training
 --------
 
 - [Learning at CyVerse](https://www.cyverse.org/learning)
-
 - [The Carpentries: Teaching foundational coding and data science skills to researchers worldwide](https://carpentries.org/) - There lessons form the basis of Software Carpentry and Data Carpentry workshops. Lots of the lessons and content are available to explore or schedule a workshop.
-
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). **The course content for recent years (plus more done by Titus and DIBSI is shared [here](https://dib-training.readthedocs.io/en/pub/).**
 
 
@@ -121,13 +107,8 @@ Acknowledgements
 ----------------
 
 - Department of Biochemistry and Molecular Biology at Upstate Medical University
-
 - [Stacia Sower](https://www.unhsowerlab.com/) for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
-
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
-
 - [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
-
 - [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
-
 - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
