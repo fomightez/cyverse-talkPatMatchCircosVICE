@@ -65,15 +65,27 @@ Making VICE Apps
 - [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
 
 
-Jupyter
--------
+Jupyter and Binder
+------------------
 
 **Importantly** Jupyter is langauage agnostic!  
-What I covered here today only touched on Python because that is the language I presently work most often in, but Jupyter can host R kernel and the hub can even serve RStudio.
+What I covered here today only touched on Python and the bash shell languages because the fromer is the language I presently work in most often. However, Jupyter can host an R kernel and the hub can even serve RStudio. Other langauges are possible too.
+
+- 
 
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
 
 Acknowledgements
 ----------------
+
+- Department of Biochemistry and Molecular Biology at Upstate Medical University
+
+- Stacia Sower for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
+
+- Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS) workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
+
+- [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
+
+- [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
 
 - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
