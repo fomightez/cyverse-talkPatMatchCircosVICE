@@ -15,7 +15,7 @@ VICE apps in Cyverse's Discovery Environment
 
 [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
 
-see [Making VICE Apps](#Making_VICE_Apps) below
+see [Making VICE Apps](#making-vice-apps) below
 
 PatMatch-Binder and VICE app
 ----------------------------
