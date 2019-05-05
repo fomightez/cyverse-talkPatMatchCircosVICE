@@ -78,7 +78,17 @@ What I covered here today only touched on Python and the bash shell languages be
 
 - [MyBinder.org](https://mybinder.org/)
 
-- [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
+- [Sample Binder Repositories as Guides](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
+
+- Scientific Examples in the wild:
+
+  - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics)
+  - [Python for ecologists, a Data Carpentry lesson](https://github.com/ngs-docs/2017-davis-ggg201a-day1)
+  - [Introductory image processing on biological images using python](https://github.com/dwaithe/model-training)
+  - [ipyvolume: 3d plotting for Python](https://github.com/maartenbreddels/ipyvolume/)
+  - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
+  - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
+  - [LIGO data analysis](http://github.com/gwastro/pycbc) - package was used in the first direct detection of gravitational waves
 
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
 
@@ -86,14 +96,23 @@ What I covered here today only touched on Python and the bash shell languages be
 
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
 
+Training
+--------
+
+- [Learning at CyVerse](https://www.cyverse.org/learning)
+
+- [The Carpentries: Teaching foundational coding and data science skills to researchers worldwide](https://carpentries.org/) - There lessons form the basis of Software Carpentry and Data Carpentry workshops. Lots of the lessons and content are available to explore or schedule a workshop.
+
+- Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). **The course content for recent years (plus more done by Titus and DIBSI is shared [here](https://dib-training.readthedocs.io/en/pub/).**
+
 Acknowledgements
 ----------------
 
 - Department of Biochemistry and Molecular Biology at Upstate Medical University
 
-- Stacia Sower for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
+- [Stacia Sower](https://www.unhsowerlab.com/) for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
 
-- Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS) workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
+- Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
 
 - [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
 
