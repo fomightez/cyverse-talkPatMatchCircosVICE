@@ -34,7 +34,8 @@ Circos-Binder and VICE app
 
 ### Alternatives
 
-Other tools for similar circular (and non-circular) visualization. This is not meant to be an exhaustive listing.
+Other tools for similar circular (and non-circular) visualization.  
+This is not meant to be an exhaustive listing.
 
 #### Command-line/ Script based
 
