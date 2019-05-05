@@ -8,12 +8,11 @@ Cyverse
 ------
 
 - [Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
-- [Visual Interactive Computing Environment(VICE)](https://learning.cyverse.org/projects/vice/en/latest/index.html)
 
 VICE apps in Cyverse's Discovery Environment
 --------------------------------------------
 
-- [Visual Interactive Computing Environment(VICE)](https://learning.cyverse.org/projects/vice/en/latest/index.html)
+- [Visual Interactive Computing Environment(VICE) Guide](https://learning.cyverse.org/projects/vice/en/latest/index.html)
 - [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
 - [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
 - [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
