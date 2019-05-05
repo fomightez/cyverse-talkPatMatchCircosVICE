@@ -7,15 +7,21 @@ Resource listing for accompanying Wayne's Cyverse talk on the PatMatch and Circo
 Cyverse
 ------
 
-[Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
-
+- [Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
+- [Visual Interactive Computing Environment(VICE)](https://learning.cyverse.org/projects/vice/en/latest/index.html)
 
 VICE apps in Cyverse's Discovery Environment
 --------------------------------------------
 
-[List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
+- [Visual Interactive Computing Environment(VICE)](https://learning.cyverse.org/projects/vice/en/latest/index.html)
 
-see [Making VICE Apps](#making-vice-apps) below
+- [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
+
+- [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
+
+- [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
+
+- see [Making VICE Apps](#making-vice-apps) below
 
 PatMatch-Binder and VICE app
 ----------------------------
@@ -71,13 +77,15 @@ Pertinent recent Cyverse Friday Focus Forum Webinars
 -  [Deploying scalable interactive Bioinformatics analyses via VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Deploying+scalable+interactive+Bioinformatics+analyses+via+VICE) by Peter Rose
 - [Easier with containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Easier+with+containers) by Julian Pistorius
 - [Going places with your containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Going+places+with+your+containers) by Tyson Swetnam
-
+- [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
 
 Jupyter and Binder
 ------------------
 
 **Importantly** Jupyter is langauage agnostic!  
 What I covered here today only touched on Python and the bash shell languages because the fromer is the language I presently work in most often. However, Jupyter can host an R kernel and the hub can even serve RStudio. Other langauges are possible too.
+
+- [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
 
 - [MyBinder.org](https://mybinder.org/)
 
@@ -107,6 +115,7 @@ Training
 - [The Carpentries: Teaching foundational coding and data science skills to researchers worldwide](https://carpentries.org/) - There lessons form the basis of Software Carpentry and Data Carpentry workshops. Lots of the lessons and content are available to explore or schedule a workshop.
 
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). **The course content for recent years (plus more done by Titus and DIBSI is shared [here](https://dib-training.readthedocs.io/en/pub/).**
+
 
 Acknowledgements
 ----------------
