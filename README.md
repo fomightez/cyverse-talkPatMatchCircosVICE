@@ -56,11 +56,6 @@ Other tools for similar circular (and non-circular) visualization. This is not m
 - [Simple alternatives for the program Circos](https://www.biostars.org/p/336589/#336693)
 
 
-Pertinent recent Cyverse Friday Focus Forum Webinars
--------------------------------------------------
--  [Deploying scalable interactive Bioinformatics analyses via VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Deploying+scalable+interactive+Bioinformatics+analyses+via+VICE) by Peter Rose
-- [Easier with containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Easier+with+containers) by Julian Pistorius
-- [Going places with your containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Going+places+with+your+containers) by Tyson Swetnam
 
 Making VICE Apps
 ---------------
@@ -68,6 +63,13 @@ Making VICE Apps
 - [Guidelines for adding VICE tools in DE](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/adding.html)
 
 - [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
+
+
+Pertinent recent Cyverse Friday Focus Forum Webinars
+-------------------------------------------------
+-  [Deploying scalable interactive Bioinformatics analyses via VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Deploying+scalable+interactive+Bioinformatics+analyses+via+VICE) by Peter Rose
+- [Easier with containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Easier+with+containers) by Julian Pistorius
+- [Going places with your containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Going+places+with+your+containers) by Tyson Swetnam
 
 
 Jupyter and Binder
