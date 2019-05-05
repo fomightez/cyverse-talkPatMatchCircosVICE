@@ -4,10 +4,18 @@ Short link to share to this page is [bit.ly/CyverseWayne](http://bit.ly/CyverseW
 
 Resource listing for accompanying Wayne's Cyverse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
 
+Cyverse
+------
+
+[Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
+
+
 VICE apps in Cyverse's Discovery Environment
 --------------------------------------------
 
 [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
+
+see [Making VICE Apps](#Making_VICE_Apps) below
 
 PatMatch-Binder and VICE app
 ----------------------------
@@ -47,9 +55,6 @@ Other tools for similar circular (and non-circular) visualization. This is not m
 - Discussion [here](https://twitter.com/BioMickWatson/status/1011231099203223552)
 - [Simple alternatives for the program Circos](https://www.biostars.org/p/336589/#336693)
 
-Cyverse
-------
-[DE Portal]
 
 Pertinent recent Cyverse Friday Focus Forum Webinars
 -------------------------------------------------
@@ -71,7 +76,13 @@ Jupyter and Binder
 **Importantly** Jupyter is langauage agnostic!  
 What I covered here today only touched on Python and the bash shell languages because the fromer is the language I presently work in most often. However, Jupyter can host an R kernel and the hub can even serve RStudio. Other langauges are possible too.
 
-- 
+- [MyBinder.org](https://mybinder.org/)
+
+- [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
+
+- [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
+
+- [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
 
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
 
