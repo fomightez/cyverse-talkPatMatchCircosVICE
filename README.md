@@ -18,6 +18,8 @@ VICE apps in Cyverse's Discovery Environment
 - [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
 - see [Making VICE Apps](#making-vice-apps) below
 
+----
+
 PatMatch-Binder and VICE app
 ----------------------------
 
@@ -59,12 +61,22 @@ This is not meant to be an exhaustive listing.
 
 
 
-Making VICE Apps
----------------
+Getting started with Circos
+---------------------------
 
-- [Guidelines for adding VICE tools in DE](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/adding.html)
-- [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
 
+
+Required:
+- karyotype
+- ideogram
+
+
+A good way to proceed is to find an example close to what you want, that has code associated,  and work on making that and integratinbg your data. Sources of images and code:
+
+- [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
+- [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization)
+
+----
 
 Pertinent recent Cyverse Friday Focus Forum Webinars
 -------------------------------------------------
@@ -72,6 +84,15 @@ Pertinent recent Cyverse Friday Focus Forum Webinars
 - [Easier with containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Easier+with+containers) by Julian Pistorius
 - [Going places with your containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Going+places+with+your+containers) by Tyson Swetnam
 - [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
+
+
+Making VICE Apps
+---------------
+
+- [Guidelines for adding VICE tools in DE](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/adding.html)
+- [Building VICE tools and apps](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/building.html)
+
+
 
 Jupyter and Binder
 ------------------
