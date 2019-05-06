@@ -71,10 +71,19 @@ Required:
 - ideogram
 
 
-A good way to proceed is to find an example close to what you want, that has code associated,  and work on making that and integratinbg your data. Sources of images and code:
+A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
 - [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
-- [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization)
+- [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization) - users often post code there with accompanying images
+
+Finding what you want?
+- Literature
+- [Circos IMAGES IN SCIENTIFIC LITERATURE page](http://circos.ca/intro/published_images/)
+- [Circos VARIOUS SAMPLE IMAGES page](http://circos.ca/images/samples/)
+- [Circos PLOT TYPES page](http://circos.ca/intro/features/)
+- [Circos APPLICATION OF CIRCOS TO GENOMICS](http://circos.ca/intro/genomic_data/)
+- [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
+- and more on [Main Circos site](http://circos.ca/)
 
 ----
 
