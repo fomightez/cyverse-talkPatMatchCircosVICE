@@ -116,6 +116,7 @@ What I covered here today only touched on Python and the bash shell languages be
   - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics)
   - [Python for ecologists, a Data Carpentry lesson](https://github.com/ngs-docs/2017-davis-ggg201a-day1)
   - [Introductory image processing on biological images using python](https://github.com/dwaithe/model-training)
+  - [ssbio: structural systems biology](https://github.com/SBRG/ssbio)
   - [ipyvolume: 3d plotting for Python](https://github.com/maartenbreddels/ipyvolume/)
   - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
   - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
