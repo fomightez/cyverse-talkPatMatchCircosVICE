@@ -122,6 +122,7 @@ What I covered here today only touched on Python and the bash shell languages be
   - [LIGO data analysis](http://github.com/gwastro/pycbc) - package was used in the first direct detection of gravitational waves
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
 - [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
+- [Introducing Binder 2.0 — share your interactive research environment](https://elifesciences.org/labs/8653a61d/introducing-binder-2-0-share-your-interactive-research-environment)
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
 
 Training
