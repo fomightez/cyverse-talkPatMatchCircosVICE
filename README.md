@@ -27,12 +27,16 @@ PatMatch-Binder and VICE app
 
 [Example PatMatch at the Yeast Genome Database](https://www.yeastgenome.org/nph-patmatch) - In particular look at the 'Supported Pattern Syntax and Examples' at the bottom
 
+**ADD LINK TO QUICK START**
+
 Circos-Binder and VICE app
 ---------------------------
 
 [Main Circos site](http://circos.ca/)
 
 [Circos Binder and Vice App Github repo](https://github.com/fomightez/circos-binder)
+
+**ADD LINK TO QUICK START**
 
 
 ### Alternatives
