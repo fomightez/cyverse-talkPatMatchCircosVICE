@@ -107,9 +107,11 @@ Training
 Acknowledgements
 ----------------
 
+- Martin Krzywinski who developed Circos and made the content to help people learn it
+- PatchMatch authors - **LIST THEM HERE**
+- [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
+- [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
 - Department of Biochemistry and Molecular Biology at Upstate Medical University
 - [Stacia Sower](https://www.unhsowerlab.com/) for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
-- [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
-- [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
 - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
