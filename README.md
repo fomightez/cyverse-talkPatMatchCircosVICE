@@ -90,6 +90,7 @@ Finding what you want?
 Pertinent recent Cyverse Friday Focus Forum Webinars
 -------------------------------------------------
 -  [Deploying scalable interactive Bioinformatics analyses via VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Deploying+scalable+interactive+Bioinformatics+analyses+via+VICE) by Peter Rose
+- [Doing metagenomic analyses with QIIME 2 using Jupyter Notebooks in VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Doing+metagenomic+analyses+with+QIIME+2+using+Jupyter+Notebooks+in+VICE) by  Joslynn Lee
 - [Easier with containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Easier+with+containers) by Julian Pistorius
 - [Going places with your containers](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Going+places+with+your+containers) by Tyson Swetnam
 - [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
