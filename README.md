@@ -107,8 +107,8 @@ Training
 Acknowledgements
 ----------------
 
-- Martin Krzywinski who developed Circos and made the content to help people learn it
-- PatchMatch authors - **LIST THEM HERE**
+- Martin Krzywinski who developed Circos and made the site and authored the content to help people learn it
+- PatchMatch authors - Yan T, Yoo D, Berardini TZ, Mueller LA, Weems DC, Weng S, Cherry JM, Rhee SY.
 - [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
 - [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
 - Department of Biochemistry and Molecular Biology at Upstate Medical University
