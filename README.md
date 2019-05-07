@@ -34,6 +34,8 @@ Circos-Binder and VICE app
 
 [Main Circos site](http://circos.ca/)
 
+[Circos to make Genomic Conservation illustration](http://circos.ca/guide/genomic/img/circos-conservation.png)
+
 [Circos Binder and Vice App Github repo](https://github.com/fomightez/circos-binder)
 
 **ADD LINK TO QUICK START**
