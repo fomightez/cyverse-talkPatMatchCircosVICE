@@ -61,6 +61,7 @@ This is not meant to be an exhaustive listing.
 - [Circoletto ](http://tools.bat.infspire.org/circoletto/#info) - Front-end to Circos that allows visualizing BLAST sequence comparison results
 - [Circa](http://omgenomics.com/circa/)($) and Chordial ($)
 - [CiVi: User-friendly Circular Visualization for microbial genomes](http://civi.cmbi.ru.nl/) but limited to the microbes (currently 2773) they have
+- NCBI's [Genome Decoration Page](https://www.ncbi.nlm.nih.gov/genome/tools/gdp/) enables annotating on cytoogenetic representations.
 
 ### Unsorted
 
@@ -77,6 +78,8 @@ Getting started with Circos
 Required:
 - karyotype
 - ideogram
+
+Meant to be reminiscent of actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear-presented [chromosome ideograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
 
 
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
