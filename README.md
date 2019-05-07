@@ -55,6 +55,7 @@ This is not meant to be an exhaustive listing.
 #### Webtools
 
 - [Circos Online](http://mkweb.bcgsc.ca/tableviewer/)
+- [Circoletto ](http://tools.bat.infspire.org/circoletto/#info) - Front-end to Circos that allows visualizing BLAST sequence comparison results
 - [Circa](http://omgenomics.com/circa/)($) and Chordial ($)
 - [CiVi: User-friendly Circular Visualization for microbial genomes](http://civi.cmbi.ru.nl/) but limited to the microbes (currently 2773) they have
 
