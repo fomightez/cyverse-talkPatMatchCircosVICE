@@ -48,6 +48,7 @@ This is not meant to be an exhaustive listing.
 
 - [Chord diagrams](https://www.data-to-viz.com/graph/chord.html#)
 - [CIRCULAR PLOT – CIRCLIZE PACKAGE (2)](https://www.r-graph-gallery.com/123-circular-plot-circlize-package-2/)
+- [Circoletto ](https://www.ncbi.nlm.nih.gov/pubmed/20736339) - Front-end to Circos that allows visualizing BLAST sequence comparison results; *lists that it includes a downloaded software package version as well as Webtool described below.*
 - [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/#Examples) - for linear
 - [EasyFig](https://github.com/mjsull/Easyfig/wiki/Example-1.-Simple-genome-region-comparison) - for linear and sub-regions
 - [Donut plot with subgroups](https://python-graph-gallery.com/163-donut-plot-with-subgroups/) to contrast [Circos with highlights (specifically bottom plot here)](http://circos.ca/documentation/tutorials/highlights/recipe2/images) .
