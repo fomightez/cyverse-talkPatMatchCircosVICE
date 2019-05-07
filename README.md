@@ -40,6 +40,7 @@ Circos-Binder and VICE app
 
 **ADD LINK TO QUICK START**
 
+**TO DO: make (or find if it is already in the demo notebooks) an example of scaling up to analyze many genomes at once?
 
 ### Alternatives
 
@@ -87,7 +88,7 @@ A good way to proceed is to find an example close to what you want, that has cod
 - [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
 - [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization) - users often post code there with accompanying images
 
-Finding what you want?
+Finding a basis for what you want to make?
 - Literature
 - [Circos IMAGES IN SCIENTIFIC LITERATURE page](http://circos.ca/intro/published_images/)
 - [Circos VARIOUS SAMPLE IMAGES page](http://circos.ca/images/samples/)
