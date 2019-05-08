@@ -29,6 +29,9 @@ PatMatch-Binder and VICE app
 
 **ADD LINK TO QUICK START**
 
+Need something else:
+- [RNAPattMatch web server](https://academic.oup.com/nar/article/43/W1/W507/2467908); several others mentioned therein
+
 Circos-Binder and VICE app
 ---------------------------
 
