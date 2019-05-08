@@ -135,6 +135,7 @@ What I covered here today only touched on Python and the bash shell languages be
   - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
   - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
   - [LIGO data analysis](http://github.com/gwastro/pycbc) - package was used in the first direct detection of gravitational waves
+- [Juliette Taka's Reproducible Science and Binder system infographic](https://opendreamkit.org/public/images/use-cases/reproducible_logbook.png) for [OpenDreamKit](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
 - [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
 - [Introducing Binder 2.0 — share your interactive research environment](https://elifesciences.org/labs/8653a61d/introducing-binder-2-0-share-your-interactive-research-environment)
