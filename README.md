@@ -29,7 +29,10 @@ PatMatch-Binder and VICE app
 
 **ADD LINK TO QUICK START**
 
-Need something else:
+Need something else? (not meant to be exhausative):
+- [Fragrep: An Efficient Search Tool for Fragmented Patterns in Genomic Sequences]
+- [Sequence Pattern Mining Based on Markov Chain](https://ieeexplore.ieee.org/document/7429136) - probability matrix based
+- [Fragrep: An Efficient Search Tool for Fragmented Patterns in Genomic Sequences](https://www.sciencedirect.com/science/article/pii/S167202290660017X)
 - [RNAPattMatch web server](https://academic.oup.com/nar/article/43/W1/W507/2467908); several others mentioned therein
 
 Circos-Binder and VICE app
