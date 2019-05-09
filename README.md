@@ -131,6 +131,10 @@ Jupyter and Binder
 **Importantly** Jupyter is langauage agnostic!  
 What I covered here today only touched on Python and the bash shell languages because the fromer is the language I presently work in most often. However, Jupyter can host an R kernel and the hub can even serve RStudio. Other langauges are possible too.
 
+**TRICK** for going between lab and older notebook interface in Jupyter sessions:  
+To go from JupyterLab to classic-style, change end of url from `/lab` to `/tree`.  
+To go from classic-style to JupyterLab, change end of url from `/tree` or `/notebooks...` to `/lab`.
+
 - [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
 - [MyBinder.org](https://mybinder.org/)
 - [Sample Binder Repositories as Guides](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
