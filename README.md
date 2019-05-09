@@ -59,7 +59,7 @@ This is not meant to be an exhaustive listing.
 
 - [Chord diagrams](https://www.data-to-viz.com/graph/chord.html#)
 - [RCircos package](https://bitbucket.org/henryhzhang/rcircos/src/master/vignettes/RCircosLayoutDemo.png)
-- [CIRCULAR PLOT – CIRCLIZE PACKAGE (2)](https://www.r-graph-gallery.com/123-circular-plot-circlize-package-2/)
+- [CIRCULAR PLOT – CIRCLIZE PACKAGE](https://www.r-graph-gallery.com/123-circular-plot-circlize-package-2/)
 - [Circoletto ](https://www.ncbi.nlm.nih.gov/pubmed/20736339) - Front-end to Circos that allows visualizing BLAST sequence comparison results; *lists that it includes a downloaded software package version as well as Webtool described below.*
 - [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/#Examples) - for linear
 - [EasyFig](https://github.com/mjsull/Easyfig/wiki/Example-1.-Simple-genome-region-comparison) - for linear and sub-regions
@@ -95,7 +95,7 @@ Meant to be reminiscent of actual cytogenetic [karyotype](https://www.nature.com
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
 - [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
-- [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization) - users often post code there with accompanying images
+- [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization) - users often post code there with accompanying images. *In fact this list was one of the reasons I wanted to 'binderize' Circos. It seems it migth be easier to share [minimum working examples](https://stackoverflow.com/help/mcve) with this system.*
 
 Finding a basis for what you want to make?
 - Literature
