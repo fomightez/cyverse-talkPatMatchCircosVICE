@@ -161,7 +161,7 @@ Computational biology and related skills Training
 - [The Carpentries: Teaching foundational coding and data science skills to researchers worldwide](https://carpentries.org/) - There lessons form the basis of Software Carpentry and Data Carpentry workshops. Lots of the lessons and content are available to explore or schedule a workshop.
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).  
   **The course content for recent years (plus more done by Titus and DIBSI) is shared [here](https://dib-training.readthedocs.io/en/pub/).**
-- [EDAMAME Workshop in microbial metagenome analysis at Michigan State University](http://www.edamamecourse.org/)
+- [EDAMAME Workshop in microbial metagenome analysis at Michigan State University](http://www.edamamecourse.org/)  
   **The course content is shared [here](https://github.com/edamame-course).**
 - [Workshops on mothur and programming in R for microbial ecologists](https://mothur.org/wiki/Workshops)
 - [Avi'o Workshops](http://merenlab.org/2016/08/18/events/)
