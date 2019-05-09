@@ -34,6 +34,8 @@ Need something else? (not meant to be exhausative):
 - [Sequence Pattern Mining Based on Markov Chain](https://ieeexplore.ieee.org/document/7429136) - probability matrix based
 - [Designing patterns for profile HMM search](https://academic.oup.com/bioinformatics/article/23/2/e36/203891)
 - [RNAPattMatch web server](https://academic.oup.com/nar/article/43/W1/W507/2467908); several others mentioned therein
+- [Infernal](http://eddylab.org/infernal/)
+  >"Infernal is a software package that implements “covariance models” (CMs) for RNA homology search, which harness both sequence and structural conservation when searching for RNA homologs. 
 
 Circos-Binder and VICE app
 ---------------------------
