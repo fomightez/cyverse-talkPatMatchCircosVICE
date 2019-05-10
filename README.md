@@ -111,7 +111,7 @@ Finding a basis for what you want to make?
 Acknowledgements
 ----------------
 
-- Martin Krzywinski who developed Circos and made the site and authored the content to help people learn it
+- [Martin Krzywinski](http://mkweb.bcgsc.ca/) at Canada's Genome Sciences Centre, who developed Circos and made [the associated site and authored the content](http://circos.ca/) to help people learn it
 - PatchMatch authors - Yan T, Yoo D, Berardini TZ, Mueller LA, Weems DC, Weng S, Cherry JM, Rhee SY.
 - [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
 - [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
