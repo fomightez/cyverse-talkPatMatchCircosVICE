@@ -168,6 +168,7 @@ To go from classic-style to JupyterLab, change end of url from `/tree` or `/note
   - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
   - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
   - [LIGO data analysis](http://github.com/gwastro/pycbc) - package was used in the first direct detection of gravitational waves
+  - [Reproducible academic publications](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#reproducible-academic-publications) in [a gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 - [Juliette Taka's Reproducible Science and Binder system infographic](https://opendreamkit.org/public/images/use-cases/reproducible_logbook.png) for [OpenDreamKit](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
 - [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
