@@ -160,11 +160,12 @@ To go from classic-style to JupyterLab, change end of url from `/tree` or `/note
 - [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
 - [MyBinder.org](https://mybinder.org/)
 - [Sample Binder Repositories as Guides](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
-- Scientific Examples in the wild:
+- Scientific Binder Examples in the wild:
   - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics)
   - [Python for ecologists, a Data Carpentry lesson](https://github.com/ngs-docs/2017-davis-ggg201a-day1)
   - [Introductory image processing on biological images using python](https://github.com/dwaithe/model-training)
   - [ssbio: structural systems biology](https://github.com/SBRG/ssbio)
+  - ["Not All Bioinformatics is NGS" part of the SfAM ECS 2017 symposium](https://github.com/widdowquinn/Teaching-SfAM-ECS) by Leighton Pritchard
   - [ipyvolume: 3d plotting for Python](https://github.com/maartenbreddels/ipyvolume/)
   - [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
   - [The interaction between simulation and scattering](https://pythoninchemistry.org/sim_and_scat/intro.html)
@@ -175,6 +176,12 @@ To go from classic-style to JupyterLab, change end of url from `/tree` or `/note
 - [Jupyter and Binder Community Forum](https://discourse.jupyter.org/)
 - [Introducing Binder 2.0 — share your interactive research environment](https://elifesciences.org/labs/8653a61d/introducing-binder-2-0-share-your-interactive-research-environment)
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) , with accompanying demo notebooks with biological workflows illustrated [here](https://github.com/jupyter-guide/ten-rules-jupyter)
+
+Additional guides to command line tools in Jupyter environment:
+- BLAST
+  - [My repo for running command line-based BLAST in Jupyter environment provided via Binder.](https://github.com/fomightez/blast-binder)
+  - [Using NCBI BLAST+ Service with Biopython](https://github.com/widdowquinn/Teaching-SfAM-ECS/blob/61ee5e98e7c1327cfc2bfc2ca6e44c2bdefcaeed/workshop/02b-blast.ipynb) from ["Not All Bioinformatics is NGS" part of the SfAM ECS 2017 symposium](https://github.com/widdowquinn/Teaching-SfAM-ECS) by Leighton Pritchard
+
 
 Computational biology and related data handling skills Training
 --------
