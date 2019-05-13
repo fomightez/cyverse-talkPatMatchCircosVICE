@@ -201,6 +201,7 @@ Computational biology and related data handling skills Training
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training)
 - [Bioinformatics.org](https://www.bioinformatics.org/) often lists training education opportunities on its main page.
+- [My listing for Learning Python](https://jan2015feng-gr-m.readthedocs.io/en/latest/going%20forward/#learning-python) (some might be outdated byt I try to update it as I find new ones)
 - EdX courses
 
 
