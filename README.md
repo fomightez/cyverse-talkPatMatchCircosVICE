@@ -25,6 +25,8 @@ PatMatch-Binder and VICE app
 
 [PatMatch Binder and Vice App Github repo](https://github.com/fomightez/patmatch-binder)
 
+[Cyverse QuickStart page for PatMatch](https://cyverse-patmatch-quickstart.readthedocs-hosted.com/en/latest/)
+
 [Example PatMatch at the Yeast Genome Database](https://www.yeastgenome.org/nph-patmatch) - In particular look at the 'Supported Pattern Syntax and Examples' at the bottom
 
 **ADD LINK TO QUICK START**
@@ -43,13 +45,12 @@ Circos-Binder and VICE app
 
 [Main Circos site](http://circos.ca/)
 
-[Genomic Conservation illustration featuring what Circos excels at and seves as a guide to reading the plots](http://circos.ca/guide/genomic/img/circos-conservation.png)
-
 [Circos Binder and Vice App Github repo](https://github.com/fomightez/circos-binder)
 
-**ADD LINK TO QUICK START**
+[Cyverse QuickStart page for Circos](https://cyverse-circos-quickstart.readthedocs-hosted.com/en/latest/)
 
-**TO DO: make (or find if it is already in the demo notebooks) an example of scaling up to analyze many genomes at once?
+[Genomic Conservation illustration featuring what Circos excels at and seves as a guide to reading the plots](http://circos.ca/guide/genomic/img/circos-conservation.png)
+
 
 ### Alternatives
 
@@ -90,7 +91,7 @@ Required:
 - karyotype
 - ideogram
 
-Meant to be reminiscent of actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
+Terms `karyotype` and `ideogram` are 'in the spirit of' actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
 
 
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
