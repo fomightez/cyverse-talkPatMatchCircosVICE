@@ -31,7 +31,7 @@ PatMatch-Binder and VICE app
 
 **ADD LINK TO QUICK START**
 
-Need something else? (not meant to be exhausative):
+Need something else? (not meant to be exhaustive):
 - [Fragrep: An Efficient Search Tool for Fragmented Patterns in Genomic Sequences](https://www.sciencedirect.com/science/article/pii/S167202290660017X)
 - [Sequence Pattern Mining Based on Markov Chain](https://ieeexplore.ieee.org/document/7429136) - probability matrix based
 - [Designing patterns for profile HMM search](https://academic.oup.com/bioinformatics/article/23/2/e36/203891)
