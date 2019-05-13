@@ -29,7 +29,6 @@ PatMatch-Binder and VICE app
 
 [Example PatMatch at the Yeast Genome Database](https://www.yeastgenome.org/nph-patmatch) - In particular look at the 'Supported Pattern Syntax and Examples' at the bottom
 
-**ADD LINK TO QUICK START**
 
 Need something else? (not meant to be exhaustive):
 - [Fragrep: An Efficient Search Tool for Fragmented Patterns in Genomic Sequences](https://www.sciencedirect.com/science/article/pii/S167202290660017X)
@@ -204,7 +203,7 @@ Computational biology and related data handling skills Training
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training)
 - [Bioinformatics.org](https://www.bioinformatics.org/) often lists training education opportunities on its main page.
-- [My listing for Learning Python](https://jan2015feng-gr-m.readthedocs.io/en/latest/going%20forward/#learning-python) (some might be outdated byt I try to update it as I find new ones)
+- [My listing for Learning Python](https://jan2015feng-gr-m.readthedocs.io/en/latest/going%20forward/#learning-python) (some might be outdated; however, I try to update it as I find new ones)
 - EdX courses
 
 
