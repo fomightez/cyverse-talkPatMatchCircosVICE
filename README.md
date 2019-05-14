@@ -33,6 +33,7 @@ Need something else? (not meant to be exhaustive):
 - [RNABOB](https://github.com/bgruening/galaxy-rna-workbench#rna-structure-prediction-and-analysis) as part of the Galaxy-based [RNA workbench 2.0](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz353/5487675)- a probe motif is specified in a descriptor file, which describes its primary sequence, secondary structure, and tertiary constraints
 - [pure Python `find sequence elements in sequence data` script](https://github.com/fomightez/sequencework/tree/master/FindSequence) - no biologically specific wild-cards, though regular expressions allowed
 - [Biostrings Vmatch in R](https://twitter.com/strnr/status/986215833453113344)
+- Other related software is noted in [the paper describing PatMatch](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160129/) and on the page for [launching PatMatch in your browser](https://github.com/fomightez/patmatch-binder).
 
 ----
 
