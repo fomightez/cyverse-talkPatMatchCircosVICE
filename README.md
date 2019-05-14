@@ -36,6 +36,9 @@ Need something else? (not meant to be exhaustive):
 
 ----
 
+## Overview Part II: Underlying Tech We'll Capitalize On /Cyverse Benefits
+
+
 Cyverse
 ------
 
@@ -56,13 +59,18 @@ VICE apps in Cyverse's Discovery Environment
 Circos-Binder and VICE app
 ---------------------------
 
+[Genomic Conservation illustration featuring what Circos excels at and serves as a guide to reading the plots](http://circos.ca/guide/genomic/img/circos-conservation.png)
+
+Contrast with trying to follow relationship between particular regions among twice-duplicated Amphioxus chromosomes and specific regions of human chromosomes in [Figure 3 from Putnam et al., 2008 (PMID: 18563158)](https://www.nature.com/articles/nature06967/figures/3)
+
+
 [Main Circos site](http://circos.ca/)
 
 [Circos Binder and Vice App Github repo](https://github.com/fomightez/circos-binder)
 
 [Cyverse QuickStart page for Circos](https://cyverse-circos-quickstart.readthedocs-hosted.com/en/latest/)
 
-[Genomic Conservation illustration featuring what Circos excels at and seves as a guide to reading the plots](http://circos.ca/guide/genomic/img/circos-conservation.png)
+
 
 
 ### Alternatives
