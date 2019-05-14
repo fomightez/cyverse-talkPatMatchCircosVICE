@@ -4,19 +4,12 @@ Short link to share to this page is [bit.ly/CyverseWayne](http://bit.ly/CyverseW
 
 Resource listing for accompanying Wayne's Cyverse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
 
-Cyverse
-------
+## Overview: Underlying Tech We'll Capitalize On
 
-- [Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
+- [Juliette Taka's Reproducible Science and Binder system infographic](https://opendreamkit.org/public/images/use-cases/reproducible_logbook.png) for [OpenDreamKit](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
+- Cyverse
 
-VICE apps in Cyverse's Discovery Environment
---------------------------------------------
 
-- [Visual Interactive Computing Environment (VICE) Guide](https://learning.cyverse.org/projects/vice/en/latest/index.html)
-- [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
-- [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
-- [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
-- see [Making VICE Apps](#making-vice-apps) below
 
 ----
 
@@ -40,6 +33,24 @@ Need something else? (not meant to be exhaustive):
 - [RNABOB](https://github.com/bgruening/galaxy-rna-workbench#rna-structure-prediction-and-analysis) as part of the Galaxy-based [RNA workbench 2.0](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz353/5487675)- a probe motif is specified in a descriptor file, which describes its primary sequence, secondary structure, and tertiary constraints
 - [pure Python `find sequence elements in sequence data` script](https://github.com/fomightez/sequencework/tree/master/FindSequence) - no biologically specific wild-cards, though regular expressions allowed
 - [Biostrings Vmatch in R](https://twitter.com/strnr/status/986215833453113344)
+
+----
+
+Cyverse
+------
+
+- [Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
+
+VICE apps in Cyverse's Discovery Environment
+--------------------------------------------
+
+- [Visual Interactive Computing Environment (VICE) Guide](https://learning.cyverse.org/projects/vice/en/latest/index.html)
+- [List of VICE Apps in DE](https://learning.cyverse.org/projects/vice/en/latest/vice_apps/examples.html)
+- [VICE Starting JupyterLab App](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/user_guide/quick-jupyter.html) 
+- [VICE Webinar](https://www.youtube.com/watch?v=KpBC0nScfL0)
+- see [Making VICE Apps](#making-vice-apps) below
+
+----
 
 
 Circos-Binder and VICE app
@@ -95,6 +106,9 @@ Required:
 
 Terms `karyotype` and `ideogram` are 'in the spirit of' actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
 
+Typical enhancements:
+- Links
+- Data Tracks
 
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
