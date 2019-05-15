@@ -134,6 +134,9 @@ Finding a basis for what you want to make?
 - and more on [Main Circos site](http://circos.ca/)
 
 
+----
+
+
 Acknowledgements
 ----------------
 
@@ -146,6 +149,7 @@ Acknowledgements
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
 - [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
 
+----
 
 ----
 
@@ -170,7 +174,10 @@ Making VICE Apps
 
 ----
 
+----
 
+
+----
 
 Jupyter and Binder
 ------------------
