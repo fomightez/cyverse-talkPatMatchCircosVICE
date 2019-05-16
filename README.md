@@ -110,7 +110,7 @@ Getting started with Circos
 
 
 Required:
-- karyotype - name and size of chromosomes. Banding information, if available.
+- karyotype - name and size of chromosomes (contigs). Cytogenetic banding information, if available.
 - ideogram - how to depict the chromosome, or region of it, in the image
 
 Terms `karyotype` and `ideogram` are 'in the spirit of' actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
@@ -120,6 +120,8 @@ Typical enhancements:
 - Data Tracks
 - Ticks & Labels
 - Highlights
+
+Circos ships with several predefined karyotype files for common sequence assemblies: human, mouse, rat, and drosophila. These files are located in data/karyotype within the Circos distribution. If your favorite genome is not included there, see [here](https://github.com/fomightez/sequencework/tree/master/circos-utilities) for a utility script to fetch information for many organisms from UCSC genome database and make a karyotype file.
 
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
