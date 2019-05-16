@@ -109,13 +109,13 @@ Getting started with Circos
 
 
 
-Required:
+Required for a Circos plot:
 - karyotype - name and size of chromosomes (contigs). Cytogenetic banding information, if available.
 - ideogram - how to depict the chromosome, or region of it, in the image
 
 Terms `karyotype` and `ideogram` are 'in the spirit of' actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
 
-Typical enhancements:
+Typical Circos plot enhancements:
 - Links
 - Data Tracks
 - Ticks & Labels
