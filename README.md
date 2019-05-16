@@ -1,13 +1,13 @@
 Short link to share to this page is [bit.ly/CyverseWayne](http://bit.ly/CyverseWayne)
 
-# Resource listing to Wayne's May 17th Cyverse Talk
+# Resource listing to Wayne's May 17th CyVerse Talk
 
-Resource listing for accompanying Wayne's Cyverse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
+Resource listing for accompanying Wayne's CyVerse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
 
 ## Overview: Underlying Tech We'll Capitalize On
 
 - [Juliette Taka's Reproducible Science and Binder system infographic](https://opendreamkit.org/public/images/use-cases/reproducible_logbook.png) for [OpenDreamKit](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
-- Cyverse
+- CyVerse
 
 
 
@@ -18,7 +18,7 @@ PatMatch-Binder and VICE app
 
 [PatMatch Binder and Vice App Github repo](https://github.com/fomightez/patmatch-binder)
 
-[Cyverse QuickStart page for PatMatch](https://cyverse-patmatch-quickstart.readthedocs-hosted.com/en/latest/)
+[CyVerse QuickStart page for PatMatch](https://cyverse-patmatch-quickstart.readthedocs-hosted.com/en/latest/)
 
 [Example PatMatch at the Yeast Genome Database](https://www.yeastgenome.org/nph-patmatch) - In particular look at the 'Supported Pattern Syntax and Examples' at the bottom
 
@@ -37,15 +37,15 @@ Need something else? (not meant to be exhaustive):
 
 ----
 
-## Overview Part II: Underlying Tech We'll Capitalize On /Cyverse Benefits
+## Overview Part II: Underlying Tech We'll Capitalize On /CyVerse Benefits
 
 
-Cyverse
+CyVerse
 ------
 
-- [Cyverse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
+- [CyVerse Portal to get to the Discover Environment](https://user.cyverse.org/services/mine)
 
-VICE apps in Cyverse's Discovery Environment
+VICE apps in CyVerse's Discovery Environment
 --------------------------------------------
 
 - [Visual Interactive Computing Environment (VICE) Guide](https://learning.cyverse.org/projects/vice/en/latest/index.html)
@@ -69,7 +69,7 @@ Contrast with trying to follow relationship between particular regions among twi
 
 [Circos Binder and Vice App Github repo](https://github.com/fomightez/circos-binder)
 
-[Cyverse QuickStart page for Circos](https://cyverse-circos-quickstart.readthedocs-hosted.com/en/latest/)
+[CyVerse QuickStart page for Circos](https://cyverse-circos-quickstart.readthedocs-hosted.com/en/latest/)
 
 
 
@@ -143,17 +143,17 @@ Acknowledgements
 - [Martin Krzywinski](http://mkweb.bcgsc.ca/) at Canada's Genome Sciences Centre, who developed Circos and made [the associated site and authored the content](http://circos.ca/) to help people learn it
 - PatchMatch authors - Yan T, Yoo D, Berardini TZ, Mueller LA, Weems DC, Weng S, Cherry JM, Rhee SY.
 - [MyBinder Team](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team)
-- [Cyverse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
+- [CyVerse Team](https://www.cyverse.org/staff). In particular, I'd lke to directly thank Upendra Devisetty, Tina Lee, and Shelley Littin.
 - Department of Biochemistry and Molecular Biology at Upstate Medical University and Mark Schmitt
 - [Stacia Sower](https://www.unhsowerlab.com/) for sending me to Titus Brown and colleagues' Data Intensive Summer Biology Workshop. See below for more info about that. 
 - Data Intensive Biology Summer Institute - See [here](http://ivory.idyll.org/dibsi/index.html) for the [advertisment for the 2019 version of Titus Brown and Colleagues' Sequence Analysis (ANGUS)/Data Intensive Biology Summer Workshop](http://ivory.idyll.org/dibsi/ANGUS.html). Registration for this year closes soon, but be prepared for next yeat by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
-- [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate Cyverse use with previously binderized tools and making clear documentation.
+- [Peter Rose's mmtf-genomics](https://github.com/sbl-sdsc/mmtf-genomics) serves as an excellent guide for how to integrate CyVerse use with previously binderized tools and making clear documentation.
 
 ----
 
 ----
 
-Pertinent recent Cyverse Friday Focus Forum Webinars
+Pertinent recent CyVerse Friday Focus Forum Webinars
 -------------------------------------------------
 -  [Deploying scalable interactive Bioinformatics analyses via VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Deploying+scalable+interactive+Bioinformatics+analyses+via+VICE) by Peter Rose
 - [Doing metagenomic analyses with QIIME 2 using Jupyter Notebooks in VICE](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Doing+metagenomic+analyses+with+QIIME+2+using+Jupyter+Notebooks+in+VICE) by  Joslynn Lee
