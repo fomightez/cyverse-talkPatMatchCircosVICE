@@ -122,6 +122,7 @@ Typical enhancements:
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
 - [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
+- [Martins's Handouts for the Practical Sessions focusing on Circos core features](http://circos.ca/documentation/course/)
 - [The Circos Google group discussion list](https://groups.google.com/forum/#!forum/circos-data-visualization) - users often post code there with accompanying images. *In fact, this list was one of the reasons I wanted to 'binderize' Circos. It seemed it might be easier to share [minimum working examples](https://stackoverflow.com/help/mcve) and solutions with this system for assisting one another.*
 
 Finding a basis for what you want to make?
