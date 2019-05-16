@@ -123,6 +123,8 @@ Typical Circos plot enhancements:
 
 Circos ships with several predefined karyotype files for common sequence assemblies: *human, mouse, rat*, and *drosophila*. These files are located in `data/karyotype` within the Circos distribution. If your favorite genome is not included there, see [here](https://github.com/fomightez/sequencework/tree/master/circos-utilities) for a utility script I made to fetch information for many organisms from UCSC genome database and make a karyotype file. Alternatively, you can see the 'DEFINING CHROMOSOMES' section [here](http://circos.ca/tutorials/lessons/ideograms/karyotypes/) and write a karyotype yourself.
 
+['Hello World' - Circos-style](http://circos.ca/documentation/tutorials/quick_start/hello_world/lesson)
+
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
 - [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
