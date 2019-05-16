@@ -110,14 +110,16 @@ Getting started with Circos
 
 
 Required:
-- karyotype
-- ideogram
+- karyotype - name and size of chromosomes. Banding information, if available.
+- ideogram - how to depict the chromosome, or region of it, in the image
 
 Terms `karyotype` and `ideogram` are 'in the spirit of' actual cytogenetic [karyotype](https://www.nature.com/scitable/topicpage/karyotyping-for-chromosomal-abnormalities-298) related data concepts and how you would represent it as an [ideogram](https://en.wikipedia.org/wiki/Ideogram). Borrows much from traditional linear representations of this data as  [chromosome ideograms /idiograms / karyograms](https://en.wikipedia.org/wiki/File:Ideogram_human_chromosome_1.svg).
 
 Typical enhancements:
 - Links
 - Data Tracks
+- Ticks & Labels
+- Highlights
 
 A good way to proceed is to find an example close to what you want, that has code associated, and work on making that and integratinbg your data. Sources of images and code:
 
@@ -131,7 +133,7 @@ Finding a basis for what you want to make?
 - [Circos VARIOUS SAMPLE IMAGES page](http://circos.ca/images/samples/)
 - [Circos PLOT TYPES page](http://circos.ca/intro/features/)
 - [Circos APPLICATION OF CIRCOS TO GENOMICS](http://circos.ca/intro/genomic_data/)
-- [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page
+- [TUTORIAL IMAGES](http://circos.ca/tutorials/images/large/) - a page with interactive thumbnails of the tutorial images on one page (Unfortunately, it doesn't show all images as some like [here](http://circos.ca/documentation/tutorials/highlights/recipe2/images) contain two images and the thumbnail and browse images option only include one image for each tutorial page.)
 - and more on [Main Circos site](http://circos.ca/)
 
 
