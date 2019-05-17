@@ -1,8 +1,9 @@
 Short link to share to this page is [bit.ly/CyverseWayne](http://bit.ly/CyverseWayne)
 
-# Resource listing to Wayne's May 17th CyVerse Talk
+# Resource listing to Wayne's May 17th CyVerse Friday Focus Webinar
 
-Resource listing for accompanying Wayne's CyVerse talk on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).
+Resource listing for accompanying Wayne's webinar on the PatMatch and Circos Binders and VICE apps (May 17th, 2019).  
+More info and video of the webinar ca be found on the CyVerse wiki [here](https://wiki.cyverse.org/wiki/display/Events/FFW%3A+Scan+and+Visualize+Genomes+with+PatMatch+and+Circos+in+VICE). 
 
 ## Overview: Underlying Tech We'll Capitalize On
 
