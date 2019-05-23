@@ -244,6 +244,7 @@ Computational biology and related data handling skills training
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training)
 - [Bioinformatics.org](https://www.bioinformatics.org/) often lists training education opportunities on its main page.
+- [Two Day Python and Pandas Workshop presented at Library of Congress May 2019 by Matt Burton](https://github.com/mcburton/lc-python-training)
 - [My listing for Learning Python](https://jan2015feng-gr-m.readthedocs.io/en/latest/going%20forward/#learning-python) (some might be outdated; however, I try to update it as I find new ones)
 - [Kelly Sovacool's List of Resources for Bioinformatics Software Development & Data Analysis](https://sovacool.dev/posts/2019/05/bioinf-resources)
 - EdX courses
