@@ -97,6 +97,7 @@ This is not meant to be an exhaustive listing.
 
 - [Circos Online](http://mkweb.bcgsc.ca/tableviewer/)
 - [Circoletto ](http://tools.bat.infspire.org/circoletto/#info) - Front-end to Circos that allows visualizing BLAST sequence comparison results
+- [CircosVCF](http://legolas.ariel.ac.il/~tools/CircosVCF/) is a user friendly web based visualization tool for plotting genome-wide variant data described in VCF files, using circos plots; the associated publication, Drori et al. 2017, describing the tool is indexed at PubMEd [here](https://www.ncbi.nlm.nih.gov/pubmed/28453675).
 - [Circa](http://omgenomics.com/circa/)($) and Chordial ($)
 - [CiVi: User-friendly Circular Visualization for microbial genomes](http://civi.cmbi.ru.nl/) but limited to the microbes (currently 2773) they have
 - NCBI's [Genome Decoration Page](https://www.ncbi.nlm.nih.gov/genome/tools/gdp/) enables annotating on cytoogenetic representations.
