@@ -35,7 +35,7 @@ Need something else? (not meant to be exhaustive):
   >"Infernal is a software package that implements “covariance models” (CMs) for RNA homology search, which harness both sequence and structural conservation when searching for RNA homologs. 
 - [RNABOB](https://github.com/bgruening/galaxy-rna-workbench#rna-structure-prediction-and-analysis) as part of the Galaxy-based [RNA workbench 2.0](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz353/5487675)- a probe motif is specified in a descriptor file, which describes its primary sequence, secondary structure, and tertiary constraints
 - [pure Python `find sequence elements in sequence data` script](https://github.com/fomightez/sequencework/tree/master/FindSequence) - no biologically specific wild-cards, though regular expressions allowed
-- [Biostrings Vmatch in R](https://twitter.com/strnr/status/986215833453113344)
+- [Biostrings vmatch function in R](https://twitter.com/strnr/status/986215833453113344); see more about vmatch user under section 5 [Biostrings and BSgenome basics by Herve Pages and Patrick Aboyoun](https://bioconductor.org/help/course-materials/2009/SeattleNov09/Biostrings/BiostringsBSgenomeBasics.pdf)
 - Other related software is noted in [the paper describing PatMatch](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160129/) and on the page for [launching PatMatch in your browser](https://github.com/fomightez/patmatch-binder).
 
 ----
