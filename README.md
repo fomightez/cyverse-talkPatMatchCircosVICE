@@ -242,6 +242,7 @@ Computational biology and related data handling skills training
 - [Cold Spring Harbor's Programming for Biology, The Genome Access Course, and Computational Genomics courses](https://meetings.cshl.edu/courseshome.aspx)
 - [UCLA Computational Genomics Summer Institute](http://computationalgenomics.bioinformatics.ucla.edu/2019-cgsi/) 
 - [Microbial Genomics & Metagenomics Workshops](https://mgm.jgi.doe.gov/)
+- [National Center for Genome Analysis Support (NCGAS) online R for Biologists course]() (offered in early Sping and in Fall; https://ncgas.org/; Bloomington, IN ; follow [twitter.com/ncgas](https://twitter.com/ncgas) for updates)
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training)
 - [Bioinformatics.org](https://www.bioinformatics.org/) often lists training education opportunities on its main page.
